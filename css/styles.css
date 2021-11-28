@@ -108,7 +108,7 @@ body {
 }
 .card__footer {
 	display: flex;
-	justify-content: space-between;
+	justify-content: spaace-evenly;
 	align-items: center;
 	margin-top: 0.5em;
 }
@@ -119,7 +119,8 @@ body {
 }
 .footer__name {
 	display: inline-block;
-	margin-right: 4em;
+	margin-left: 10px;
+	margin-right: 5px;
 	color: var(--Soft-blue);
 }
 .text__white {
